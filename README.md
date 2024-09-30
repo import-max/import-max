@@ -1,5 +1,6 @@
 ### Jihyun Oh 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=2ccc1e&height=120&section=header&text=인프라/DevOps엔지니어%20오지현입니다&fontSize=20&animation=twinkling)<br>
 <a href="https://maxo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F24822??style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/importmax/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2??style=plastic&logo=LinkedIn&logoColor=white"/></a>
 
@@ -22,5 +23,6 @@ Here are some ideas to get you started:
 
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=import-max&count_private=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=import-max&layout=compact)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=import-max&theme=monokai)](https://github.com/import-max/github-readme-activity-graph)
 
 
