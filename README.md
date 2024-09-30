@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ![Jihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=import-max&count_private=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=import-max&layout=compact)
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=import-max&theme=monokai)](https://github.com/import-max/github-readme-activity-graph)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=import-max&theme=github)]
 
 
