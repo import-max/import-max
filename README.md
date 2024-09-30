@@ -1,4 +1,4 @@
-### Max Oh 👋
+### Jihyun Oh 👋
 
 <a href="https://maxo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-grey??style=plastic&logo=appveyor&logo=로고&logoColor=로고색상"/></a>
 <a href="https://www.linkedin.com/in/importmax/" target="_blank"><img src="https://img.shields.io/badge/importmax-0A66C2??style=plastic&logo=LinkedIn&logoColor=white"/></a>
