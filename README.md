@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2ccc1e&height=120&section=header&text=인프라/DevOps엔지니어%20오지현입니다👋&fontSize=20&animation=twinkling)<br>
-<a href="https://maxo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F24822??style=flat&logo=Tistory&logoColor=white"/></a>
+<!--<a href="https://maxo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F24822??style=flat&logo=Tistory&logoColor=white"/></a>-->
 <a href="https://www.linkedin.com/in/importmax/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2??style=plastic&logo=LinkedIn&logoColor=white"/></a>
 
 <!--
